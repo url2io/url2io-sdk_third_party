@@ -13,7 +13,7 @@ URL2io 第三方 SDK 列表 : <http://www.url2io.com/docs#SDK>
 		  </li>
 		  <li id="go-sdk">Golang：<a href="https://github.com/kosmosCosmos/go-url2io-sdk" target="_blank">go-url2io-sdk</a>，由 <a href="https://github.com/kosmosCosmos" target="_blank">kosmosCosmos</a> 实现的一个简单版的 SDK，十分感谢！
 		  </li>
-		  <li id="java-sdk">Java：<a href="https://github.com/xiaosongfu/Url2IOBase" target="_blank">Url2IOBase</a>，由 <a href="https://github.com/xiaosongfu" target="_blank">xiaosongfu</a> 实现的一个简单版的 SDK，感谢支持！
+		  <li id="java-sdk">Java：<a href="https://github.com/xiaosongfu/Url2IOElastic" target="_blank">Url2IOElastic</a>，由 <a href="https://github.com/xiaosongfu" target="_blank">xiaosongfu</a> 实现的一个简单版的 SDK，感谢支持！
 		  </li>
 </ul>
 
